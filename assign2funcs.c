@@ -1,7 +1,7 @@
 /*
 Source: assign2funcs.c
 Author: Leslie Wen
-Student Number: 500889804
+
 */
 #include "assign2funcs.h"
 
