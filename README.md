@@ -1,2 +1,2 @@
 # VectorNormalizer
- X^^=(X)/(|X|)
+ Normalizes like this: X^^=(X)/(|X|)
